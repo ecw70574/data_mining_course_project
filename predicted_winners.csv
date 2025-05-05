@@ -1,0 +1,81 @@
+T1_TeamName,T2_TeamName,PredictedWinner
+Florida,Vermont,1.0
+Houston,Longwood,1.0
+Auburn,Colgate,1.0
+Kansas,Yale,1.0
+North Carolina,Iona,1.0
+Arizona,Drake,1.0
+Illinois,James Madison,1.0
+Creighton,Nevada,1.0
+Duke,Kansas,1.0
+Houston,Illinois,1.0
+Auburn,Arizona,1.0
+Florida,Duke,0.0
+Houston,Auburn,1.0
+Florida,Houston,0.0
+North Florida,Illinois St,0.0
+Clemson,San Jose St,1.0
+South Carolina,Nevada,1.0
+Liberty,Cal Baptist,1.0
+Princeton,Marquette,0.0
+Winthrop,Sam Houston St,0.0
+UCLA,Boston College,1.0
+Alabama St,Coppin St,1.0
+UC San Diego,Oklahoma,0.0
+Georgia St,Dartmouth,1.0
+UT Arlington,Stony Brook,1.0
+Georgia,South Alabama,1.0
+Murray St,Oakland,1.0
+Austin Peay,Baylor,0.0
+Stonehill,Drexel,0.0
+Brown,UC San Diego,0.0
+Mercer,Cornell,1.0
+Elon,Lamar,0.0
+Harvard,Notre Dame,0.0
+Rice,Quinnipiac,1.0
+Clemson,North Florida,1.0
+Arkansas,Lafayette,1.0
+Penn St,DePaul,1.0
+Rhode Island,Nebraska,0.0
+Lehigh,Utah St,0.0
+Alabama St,Sam Houston St,0.0
+Vermont,Florida,0.0
+Longwood,Houston,0.0
+Colgate,Auburn,0.0
+Yale,Kansas,0.0
+Iona,North Carolina,0.0
+Drake,Arizona,0.0
+James Madison,Illinois,0.0
+Nevada,Creighton,0.0
+Kansas,Duke,0.0
+Illinois,Houston,0.0
+Arizona,Auburn,0.0
+Duke,Florida,1.0
+Auburn,Houston,0.0
+Houston,Florida,1.0
+Illinois St,North Florida,1.0
+San Jose St,Clemson,0.0
+Nevada,South Carolina,0.0
+Cal Baptist,Liberty,0.0
+Marquette,Princeton,1.0
+Sam Houston St,Winthrop,1.0
+Boston College,UCLA,0.0
+Coppin St,Alabama St,0.0
+Oklahoma,UC San Diego,1.0
+Dartmouth,Georgia St,0.0
+Stony Brook,UT Arlington,0.0
+South Alabama,Georgia,0.0
+Oakland,Murray St,0.0
+Baylor,Austin Peay,1.0
+Drexel,Stonehill,1.0
+UC San Diego,Brown,1.0
+Cornell,Mercer,0.0
+Lamar,Elon,1.0
+Notre Dame,Harvard,1.0
+Quinnipiac,Rice,0.0
+North Florida,Clemson,0.0
+Lafayette,Arkansas,0.0
+DePaul,Penn St,0.0
+Nebraska,Rhode Island,1.0
+Utah St,Lehigh,1.0
+Sam Houston St,Alabama St,1.0
