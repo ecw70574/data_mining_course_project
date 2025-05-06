@@ -1,0 +1,127 @@
+T1_TeamName,T2_TeamName,Team 1 Outcome
+Florida,Norfolk St,1.0
+Houston,SIUE,1.0
+Auburn,Alabama St,1.0
+Duke,Mt St Mary's,1.0
+Creighton,Louisville,1.0
+Michigan,UC San Diego,1.0
+Texas A&M,Yale,1.0
+Mississippi,North Carolina,1.0
+Iowa St,Lipscomb,1.0
+New Mexico,Marquette,0.0
+Michigan St,Bryant,1.0
+Connecticut,Oklahoma,0.0
+Colorado St,Memphis,1.0
+Maryland,Grand Canyon,1.0
+Drake,Missouri,0.0
+Texas Tech,UNC Wilmington,1.0
+Arkansas,Kansas,0.0
+St John's,NE Omaha,1.0
+Baylor,Mississippi St,1.0
+Oregon,Liberty,1.0
+Arizona,Akron,1.0
+BYU,VCU,1.0
+Wisconsin,Montana,1.0
+St Mary's CA,Vanderbilt,1.0
+Alabama,Robert Morris,1.0
+Gonzaga,Georgia,1.0
+McNeese St,Clemson,0.0
+Purdue,High Point,1.0
+Illinois,Xavier,1.0
+Kentucky,Troy,1.0
+UCLA,Utah St,1.0
+Tennessee,Wofford,1.0
+Auburn,Creighton,1.0
+Michigan,Texas A&M,0.0
+Mississippi,Iowa St,1.0
+Michigan St,New Mexico,1.0
+Florida,Connecticut,1.0
+Maryland,Colorado St,1.0
+Texas Tech,Drake,1.0
+Arkansas,St John's,0.0
+Duke,Baylor,1.0
+Arizona,Oregon,1.0
+BYU,Wisconsin,0.0
+Alabama,St Mary's CA,1.0
+Houston,Gonzaga,1.0
+Purdue,McNeese St,1.0
+Kentucky,Illinois,1.0
+Tennessee,UCLA,1.0
+Auburn,Michigan,1.0
+Michigan St,Mississippi,1.0
+Florida,Maryland,1.0
+Texas Tech,Arkansas,1.0
+Duke,Arizona,1.0
+Alabama,BYU,1.0
+Houston,Purdue,1.0
+Tennessee,Kentucky,1.0
+Auburn,Michigan St,1.0
+Florida,Texas Tech,1.0
+Duke,Alabama,1.0
+Houston,Tennessee,1.0
+Florida,Auburn,1.0
+Houston,Duke,1.0
+Florida,Houston,0.0
+Norfolk St,Florida,0.0
+SIUE,Houston,0.0
+Alabama St,Auburn,0.0
+Mt St Mary's,Duke,0.0
+Louisville,Creighton,0.0
+UC San Diego,Michigan,0.0
+Yale,Texas A&M,0.0
+North Carolina,Mississippi,0.0
+Lipscomb,Iowa St,0.0
+Marquette,New Mexico,1.0
+Bryant,Michigan St,0.0
+Oklahoma,Connecticut,1.0
+Memphis,Colorado St,0.0
+Grand Canyon,Maryland,0.0
+Missouri,Drake,1.0
+UNC Wilmington,Texas Tech,0.0
+Kansas,Arkansas,1.0
+NE Omaha,St John's,0.0
+Mississippi St,Baylor,0.0
+Liberty,Oregon,0.0
+Akron,Arizona,0.0
+VCU,BYU,0.0
+Montana,Wisconsin,0.0
+Vanderbilt,St Mary's CA,0.0
+Robert Morris,Alabama,0.0
+Georgia,Gonzaga,0.0
+Clemson,McNeese St,1.0
+High Point,Purdue,0.0
+Xavier,Illinois,0.0
+Troy,Kentucky,0.0
+Utah St,UCLA,0.0
+Wofford,Tennessee,0.0
+Creighton,Auburn,0.0
+Texas A&M,Michigan,1.0
+Iowa St,Mississippi,0.0
+New Mexico,Michigan St,0.0
+Connecticut,Florida,0.0
+Colorado St,Maryland,0.0
+Drake,Texas Tech,0.0
+St John's,Arkansas,1.0
+Baylor,Duke,0.0
+Oregon,Arizona,0.0
+Wisconsin,BYU,1.0
+St Mary's CA,Alabama,0.0
+Gonzaga,Houston,0.0
+McNeese St,Purdue,0.0
+Illinois,Kentucky,0.0
+UCLA,Tennessee,0.0
+Michigan,Auburn,0.0
+Mississippi,Michigan St,0.0
+Maryland,Florida,0.0
+Arkansas,Texas Tech,0.0
+Arizona,Duke,0.0
+BYU,Alabama,0.0
+Purdue,Houston,0.0
+Kentucky,Tennessee,0.0
+Michigan St,Auburn,0.0
+Texas Tech,Florida,0.0
+Alabama,Duke,0.0
+Tennessee,Houston,0.0
+Auburn,Florida,0.0
+Duke,Houston,0.0
+Houston,Florida,1.0
